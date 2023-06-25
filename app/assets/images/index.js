@@ -1,0 +1,21 @@
+export default {
+  background: require('./backgroundImage.png'),
+  logo: require('./logo.png'),
+  home: require('./home.png'),
+  homeFocused: require('./home-focused.png'),
+  logout: require('./logout.png'),
+  menu: require('./menu.png'),
+  user: require('./user.png'),
+  box: require('./box.png'),
+  boxFocused: require('./box-focused.png'),
+  search: require('./search.png'),
+  cart: require('./cart.png'),
+  like: require('./like.png'),
+  liked: require('./liked.png'),
+  star: require('./star.png'),
+  deleteIcon: require('./delete.png'),
+  buy: require('./buy.png'),
+  loader:
+    'https://img.pikbest.com/png-images/20190918/cartoon-snail-loading-loading-gif-animation_2734139.png!bw700',
+  tick: 'https://cliply.co/wp-content/uploads/2021/03/372103860_CHECK_MARK_400px.gif',
+};
