@@ -1,6 +1,3 @@
-https://imgur.com/a/Dz8cQoM
-
-
 # rn-shopXpress
 
 🛍️ Welcome to react-native-shopXpress-app, a feature-rich shopping app built with React Native. This app allows multiple users to login and provides a seamless shopping experience, with state management handled by redux-saga at the app level. Experience the convenience of features like signup and login screens, category browsing, account management, cart functionality, product details, order tracking, password change, email editing, secure checkout, and an intuitive search bar. An app inspired by Flipkart and Amazon! 🚀
@@ -20,11 +17,6 @@ https://imgur.com/a/Dz8cQoM
         width: '50%';
         margin: auto;"/>    
     <img src="./app/assets/github/screenshot3.png" alt="App Screenshot" 
-        style="display: block;
-        height: 400px;
-        width: '50%';
-        margin: auto;"/>
-    <img src="./app/assets/github/screenshot4.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
         width: '50%';
