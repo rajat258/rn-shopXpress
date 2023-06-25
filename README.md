@@ -31,7 +31,7 @@ https://imgur.com/a/Dz8cQoM
         margin: auto;"/>
 </div>
 
-More detailed screenshots available on ![https://imgur.com/a/Dz8cQoM](https://imgur.com/a/Dz8cQoM)
+More detailed screenshots available on [https://imgur.com/a/Dz8cQoM](https://imgur.com/a/Dz8cQoM)
 
 ## Features
 
